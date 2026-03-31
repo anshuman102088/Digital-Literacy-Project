@@ -16,7 +16,7 @@ Sincerely,
 
 ------
 
-# 📌 Email 2: Application for Internship
+## 📌 Email 2: Application for Internship
 Subject: Application for Summer Internship Opportunity
 
 Dear Sir/Madam,
