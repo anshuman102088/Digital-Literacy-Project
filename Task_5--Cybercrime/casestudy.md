@@ -1,4 +1,4 @@
-#🔐 UPI Fraud Case Study
+# 🔐 UPI Fraud Case Study
 
 ------
 
