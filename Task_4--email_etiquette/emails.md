@@ -13,9 +13,8 @@ I kindly request a 2-day extension to complete my work properly. I assure you th
 Thank you for your understanding.
 
 Sincerely,
-- Anshuman Mudgal
-- B.Tech Student
-- VIT Bhopal University
+ Anshuman Mudgal
+ 
 ------
 
 ## 📌 Email 2: Application for Internship
