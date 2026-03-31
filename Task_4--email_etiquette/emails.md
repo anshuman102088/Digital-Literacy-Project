@@ -1,5 +1,6 @@
-# 📧 PART A — Professional Emails
-✉️ Email 1: Assignment Extension
+## 📧 PART A — Professional Emails
+
+# ✉️ Email 1: Assignment Extension
 
 Dear Professor,
 
